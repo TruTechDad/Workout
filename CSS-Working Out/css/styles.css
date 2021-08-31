@@ -1,0 +1,40 @@
+/* **********************************Tag selectors********************************** */
+body {
+  background-image: url('https://images.unsplash.com/photo-1571902943202-507ec2618e8f?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1268&q=80')
+}
+h1 {
+  color: blue;
+  font-size: 100px;
+}
+
+p {
+  font-size: 30px;
+  color: #FF67E7;
+}
+
+
+/* **********************************Class selectors********************************* */
+
+
+.squats {
+  background-color: blue;
+}
+
+.biking {
+  background-color: blue;
+}
+
+.golf {
+  background-color: blue;
+}
+.candy {
+  background-color: red;
+}
+
+.fries {
+  background-color: red;
+}
+
+.doughnut {
+  background-color: red;
+}
